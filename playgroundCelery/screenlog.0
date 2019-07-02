@@ -1,0 +1,534 @@
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ celery -A <your project name> worrker -S django -l inf
+bash: your: No such file or directory
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ celery -A <your project name> worrker -S django -l inf[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcelery -A <your project name> worrker -S django -l inf[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ./ngrok authtoken 6Fg2VE5ST1zR5wY[CCx7ng_2GQQi3kzdhT7jCSdqGwwM[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpython manage.py runserver[2Pmigraterunserverexit[K./ngrok authtoken 6Fg2VE5ST1zR5wYYkCx7ng_2GQQi3kzdhT7jCSdqGwwM[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ celery -A <your project name> wor[C[8Per -S django -l inf[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccelery -A <your project name> worrker -S django -l inf[K[K[K[K[C[C[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C work[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worke[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worker[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worker [1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worker -[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cworker -S[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worker -S [1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worker -S d[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worker -S dj[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worker -S dja[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worker -S djan[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worker -S djang[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl worker -S djan[1@g[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca worker -S dja[1@n[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cy worker -S dj[1@a[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg worker -S d[1@j[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr worker -S [1@d[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co worker -S[1@ [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cu worker -[1@S[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn worker [1@-[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd worker[1@ [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc worke[1@r[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C worker[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC worke[1@r[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce work[1@e[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl wor[1@k[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce wo[1@r[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C wor[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl wo[1@r[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C wor[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce wo[1@r[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr w[1@o[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cy [1@w
+bash: your: No such file or directory
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls
+db.sqlite3  django  [0m[01;32mmanage.py[0m  [01;34mplaygroundCelery[0m  [01;34mquickstart[0m  screenlog.0
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ celery[K[K[K[K[K[Klscelery -A <your playgroundCelery  worker -S django [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C playgroundCelery w[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C playgroundCelery wo[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C playgroundCelery wor[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C playgroundCelery work[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C playgroundCelery worke[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[CplaygroundCelery worker[1P[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C
+
+[1;36m 
+ -------------- celery@anshul-ThinkPad-L480 v4.3.0 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-4.18.0-20-generic-x86_64-with-Ubuntu-18.04-bionic 2019-06-12 15:03:25
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         playgroundCelery:0x7fbb22d2d518
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+[0m[0m[0m
+[1;33m[2019-06-12 15:03:26,643: WARNING/MainProcess] /home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '[0m
+^Z
+[1]+  Stopped                 celery -A playgroundCelery worker -S django
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ celery -A playgroundCelery workerr -S django 
+Traceback (most recent call last):
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/kombu/utils/objects.py", line 42, in __get__
+    return obj.__dict__[self.__name__]
+KeyError: 'db'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/bin/celery", line 10, in <module>
+    sys.exit(main())
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/__main__.py", line 16, in main
+    _main()
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/celery.py", line 496, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/base.py", line 298, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/celery.py", line 488, in handle_argv
+    return self.execute(command, argv)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/celery.py", line 420, in execute
+    ).run_from_argv(self.prog_name, argv[1:], command=argv[0])
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/base.py", line 252, in __call__
+    ret = self.run(*args, **kwargs)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/worker.py", line 257, in run
+    **kwargs)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/worker.py", line 101, in __init__
+    self.setup_instance(**self.prepare_args(**kwargs))
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/worker.py", line 141, in setup_instance
+    self.blueprint.apply(self, **kwargs)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bootsteps.py", line 214, in apply
+    step.include(parent)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bootsteps.py", line 343, in include
+    return self._should_include(parent)[0]
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bootsteps.py", line 339, in _should_include
+    return True, self.create(parent)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/components.py", line 215, in create
+    w._persistence = w.state.Persistent(w.state, w.statedb, w.app.clock)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/state.py", line 189, in __init__
+    self.merge()
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/state.py", line 197, in merge
+    self._merge_with(self.db)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/kombu/utils/objects.py", line 44, in __get__
+    value = obj.__dict__[self.__name__] = self.__get(obj)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/state.py", line 266, in db
+    return self.open()
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/state.py", line 193, in open
+    self.filename, protocol=self.protocol, writeback=True,
+  File "/usr/lib/python3.6/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/usr/lib/python3.6/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/usr/lib/python3.6/dbm/__init__.py", line 94, in open
+    return mod.open(file, flag, mode)
+_gdbm.error: [Errno 11] Resource temporarily unavailable
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ celery -A playgroundCelery workerr -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccelery -A <your playgroundCelery  worker -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Croject name> worker -S django -l inf[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ./ngrok authtoken 6Fg2VE5ST1zR5wY[CCx7ng_2GQQi3kzdhT7jCSdqGwwM[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpython manage.py runserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserverfr[10Pworkon bright_devpython manage.py runserverls[Kcd brightmoney_plaidapp/lear[Ksubl .[4Plscd brightmoney-plaidapp/ls[Kcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpsql -h localhost -U postgres[12Pworkon bright_devpsql -h localhost -U postgressubl .[K[4Plscd /home/anshul/Downloads/brightmmoney-backend-api-release_6thjune[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [3Ppsql -h localhost -U postgres
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pworkon bright_devls[Kcd brightmoney_plaidapp/-plaidapp/ls[Kcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Plskill -9 336sudo netstat -nlp | grep 8000[18Pkill -9 336ls[Kexitcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd brightmoney-plaidapp/_plaidapp/ls[Kworkon bright_devpsql -h localhost -U postgrescd /home/anshul/Downloads/brightmmoney-backend-api-release_6thjune[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csubl .psql -h localhost -U postgres[12Pworkon bright_devpsql -h localhost -U postgresexit[Kcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd brightmoney-plaidapp/ls[Kcd brightmoney-plaidapp/ls[Kcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpsql -h localhost -U postgres[12Pworkon bright_devpsql -h localhost -U postgressubl .[K[4Plscd /home/anshul/Downloads/brightmmoney-backend-api-release_6thjune[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [3Ppsql -h localhost -U postgres
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pworkon bright_devls[Kcd brightmoney_plaidapp/-plaidapp/ls[Kcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd brightmoney-plaidapp/_plaidapp/ls[Kworkon bright_devpsql -h localhost -U postgrescd /home/anshul/Downloads/brightmmoney-backend-api-release_6thjune[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csubl .psql -h localhost -U postgres[12Pworkon bright_devpsql -h localhost -U postgresexit[Kcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd brightmoney-plaidapp/ls[Ksubl .[1Pcleard brightmoney_plaidapp/ls[Kpython manage.py runserver[9Pworkon bright_devpython manage.py runservefr[1Prmakemigrations[7Pigraterunservermakemigrations[7Pigraterunservermakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserverfr[10Pworkon bright_devpython manage.py runserverls[Kcd brightmoney_plaidapp/lear[Ksubl .[4Plscd brightmoney-plaidapp/ls[Kcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpsql -h localhost -U postgres[12Pworkon bright_devpsql -h localhost -U postgressubl .[K[4Plscd /home/anshul/Downloads/brightmmoney-backend-api-release_6thjune[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [3Ppsql -h localhost -U postgres
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pworkon bright_devls[Kcd brightmoney_plaidapp/-plaidapp/ls[Kcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Plskill -9 336sudo netstat -nlp | grep 8000ls[Kclear[3Plssubl .[4Plscd brightmoney-backend-api-releasse_6thjune/[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pscd ..lear[3Plscd ..[3Plscd ..[3Plscd ..lear[3Plsdeactivate[5Pclearjupyter notebookls[Ksource env/bin/activatels[Kcd /home/anshul/Downloads/BrightmmoneyIntern/WhatAmIDoing/Plaid/Jupyter[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdeactivatepython manage.py runserver[2Pmigrateakemigrationsls[Kworkon bright_devpsql -h localhost -U postgresls[Kclear[3Plsexitpython manage.py runserverls[Kclearpsql -h localhost -U postgresls[Kworkon bright_devclear[Kkill -9 29472sudo netstat -nlp | grep 8000[Kps -eaf | grep 8000netstat[C[C[C[C[C[C[C[C[C[C[C[C[7Psudo netstat[10@history | grep[C[C[C[C[C[C[C[Cnetstat[Kls[Kexitpsql -h localhost -U postgresclear[K[3Plskill -9 29787sudo netstat -nlp | grep 8000exit[Kpython manage.py runserverls[Kclearpython manage.py runserverclear[K[3Plscd brightmoney_plaidapp/ls[Kcd brightmoney-plaidapp/lear[K[3Plsworkon bright_devls[Ksubl .[1Pclear[3Plscd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjupyter notebookls[Ksource env/bin/activateubl[K[2Plscd /home/anshul/Downloads/BrightmmoneyIntern/WhatAmIDoing/Plaid/Jupyter[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [3Ppsql -h localhost -U postgres
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kpsql -h localhost -U postgresls[Kclear[3Plsclear[3Plsworkon bright_devls[Kclear[3Plsclear[3Plspsql -h localhost -U postgresls[Kpsql -h localhost -U postgrescd /home/anshul/Downloads/BrightmmoneyIntern/WhatAmIDoing/Plaid/Jupyter[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csublource env/bin/activatels[Kjupyter notebookexit[Kcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclearsubl .[4Plsworkon bright_devls[Kcleard brightmoney-plaidapp/ls[Kcd brightmoney_plaidapp/ls[Kclearpython manage.py runserverclear[K[3Plspython manage.py runserverexit[Ksudo netstat -nlp | grep 8000[16Pkill -9 29787ls[Kclearpsql -h localhost -U postgresexit[K[2Plsnetstathistory | grep netstat[10Psudo[C[C[C[C[C[C[C[Cnetstat | grep 8000ps -eaf[C[C[C[C[C[C[C[C[C[C[C[Csudo[K netstat -nlp | grep 8000[16Pkill -9 29472[8Pclearworkon bright_devls[Kpsql -h localhost -U postgresclear[K[3Plspython manage.py runserverexit[K[2Plsclear[3Plspsql -h localhost -U postgres[12Pworkon bright_devls[Kpython manage.py makemigrations[7Pigraterunserver[16Pdeactivate[6Pexitcd /home/anshul/Downloads/BrightmmoneyIntern/WhatAmIDoing/Plaid/Jupyter[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csource env/bin/activatels[Kjupyter notebookclear[Kdeactivatels[Kcleard ..[3Plscd ..[3Plscd ..[3Plscleard ..s[Klscd brightmoney-backend-api-releasse_6thjune/[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csubl .[4Plsclear[3Plssudo netstat -nlp | grep 8000[18Pkill -9 336ls[Kexitcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd brightmoney-plaidapp/_plaidapp/ls[Kworkon bright_devpsql -h localhost -U postgrescd /home/anshul/Downloads/brightmmoney-backend-api-release_6thjune[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csubl .psql -h localhost -U postgres[12Pworkon bright_devpsql -h localhost -U postgresexit[Kcd /home/anshul/Downloads/New_plaaidapp[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd brightmoney-plaidapp/ls[Ksubl .[1Pcleard brightmoney_plaidapp/ls[Kpython manage.py runserver[9Pworkon bright_devpython manage.py runservefr[1Prmakemigrations[7Pigraterunservermakemigrations[7Pigraterunservermakemigrations[7Pigraterunservermakemigrations[7Pigraterunserverexit[K./ngrok authtoken 6Fg2VE5ST1zR5wYYkCx7ng_2GQQi3kzdhT7jCSdqGwwM[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ celery -A <your project name> wor[C[8Per -S django -l inf[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[ClaygroundCelery [3Pworker -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccelery -A playgroundCelery workerr -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccelery -A playgroundCelery workerr -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccelery -A <your playgroundCelery  worker -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Croject name> worker -S django -l inf[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ./ngrok authtoken 6Fg2VE5ST1zR5wY[CCx7ng_2GQQi3kzdhT7jCSdqGwwM[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./ngrok authtoken 6Fg2VE5ST1zR5wYYkCx7ng_2GQQi3kzdhT7jCSdqGwwM[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ celery -A <your project name> wor[C[8Per -S django -l inf[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[ClaygroundCelery [3Pworker -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccelery -A <your playgroundCelery  worker -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccelery -A playgroundCelery workerr -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccelery -A playgroundCelery workerr -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccelery -A <your playgroundCelery  worker -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Croject name> worker -S django -l inf[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ./ngrok authtoken 6Fg2VE5ST1zR5wY[CCx7ng_2GQQi3kzdhT7jCSdqGwwM[A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpython manage.py runserver[2Pmigrate[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kps aux | grep 'celery[K[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ps aux | grep 'celery worker'
+anshul   15153  0.0  0.0  21540  1036 pts/5    S+   20:35   0:00 grep --color=auto [01;31m[Kcelery worker[m[K
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ kill -9 15153
+bash: kill: (15153) - No such process
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ kill -9 21540
+bash: kill: (21540) - No such process
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ kill[K[K[K[Kpfkill -f "celery worker"
+
+Command 'pfkill' not found, did you mean:
+
+  command 'fkill' from snap fkill (5.2.0)
+  command 'rfkill' from deb rfkill
+  command 'pkill' from deb procps
+
+See 'snap info <snapname>' for additional versions.
+
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ pkill -f "celery_worker"
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ clear
+[H[2J[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ clearpkill -f "celery_worker"fkill -f "celery worker"[12Pkill -9 2154015153ps aux | grep 'celery worker'celery -A playgroundCelery workerr -S django [K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [K[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit
+There are stopped jobs.
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit
+
+worker: Warm shutdown (MainProcess)
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ d[Kclearpkill -f "celery_worker"fkill -f "celery worker"[12Pkill -9 2154015153ps aux | grep 'celery worker'celery -A playgroundCelery workerr -S django [A[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccelery -A playgroundCelery workerr -S django 
+[1;36m 
+ -------------- celery@anshul-ThinkPad-L480 v4.3.0 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-4.18.0-20-generic-x86_64-with-Ubuntu-18.04-bionic 2019-06-12 15:09:33
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         playgroundCelery:0x7efe9e0dd550
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+[0m[0m[0m
+[1;33m[2019-06-12 15:09:34,353: WARNING/MainProcess] /home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '[0m
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ a;kdjsfs[K[K[K[K[K[K[K[K[K[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ [K[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ exit
+^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[A^[[A^[[A^[[A^[[A^[[A[1;31m[2019-06-12 18:39:46,883: ERROR/MainProcess] Received unregistered task of type 'plaidapp.tasks.FetchEverythingDelayed'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+'[[], {"access_token": "access-sandbox-eb202255-1737-419f-a799-d28afe0d1876"}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (146b)
+Traceback (most recent call last):
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/consumer/consumer.py", line 559, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'plaidapp.tasks.FetchEverythingDelayed'[0m
+[1;31m[2019-06-12 19:40:39,991: ERROR/MainProcess] Received unregistered task of type 'plaidapp.tasks.FetchEverythingDelayed'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+'[[], {"access_token": "access-sandbox-59b91a62-5e21-4fd6-adb7-09cacf89f93f"}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (146b)
+Traceback (most recent call last):
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/consumer/consumer.py", line 559, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'plaidapp.tasks.FetchEverythingDelayed'[0m
+[1;31m[2019-06-12 19:55:51,557: ERROR/MainProcess] Received unregistered task of type 'plaidapp.tasks.FetchEverythingDelayed'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+'[[], {"access_token": "access-sandbox-5f597286-f949-486b-8628-1b78d1dad37a"}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (146b)
+Traceback (most recent call last):
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/consumer/consumer.py", line 559, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'plaidapp.tasks.FetchEverythingDelayed'[0m
+[1;31m[2019-06-12 20:15:25,263: ERROR/MainProcess] Received unregistered task of type 'plaidapp.tasks.FetchEverythingDelayed'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+'[[], {"access_token": "access-sandbox-51829edb-fbbe-436a-9389-ad6ed2d04355"}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (146b)
+Traceback (most recent call last):
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/worker/consumer/consumer.py", line 559, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'plaidapp.tasks.FetchEverythingDelayed'[0m
+^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^C
+worker: Hitting Ctrl+C again will terminate all running tasks!
+
+worker: Warm shutdown (MainProcess)
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ celery -A playgroundCelery worker -S django lear[Kpkill -f "celery_worker"fkill -f "celery worker"[12Pkill -9 2154015153ps aux | grep 'celery worker'celery -A playgroundCelery worker -S django ls[Kcelery -A <your playgroundCelery worker -S django roject name> worker -S django -l inf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./ngrok authtoken 6Fg2VE5ST1zR5wYkCx7ng_2GQQi3kzdhT7jCSdqGwwM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kpython manage.py runserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[7Pigraterunservermakemigrations[7Pigraterunservermakemigrations[7Pigraterunserverexit[K./ngrok authtoken 6Fg2VE5ST1zR5wYkCx7ng_2GQQi3kzdhT7jCSdqGwwM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pcelery -A <your project name> worker -S django -l inf[3PlaygroundCelery worker -S django roject name> worker -S django -l inf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./ngrok authtoken 6Fg2VE5ST1zR5wYkCx7ng_2GQQi3kzdhT7jCSdqGwwM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kpython manage.py runserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserverfr[10Pworkon bright_devpython manage.py runserverls[Kcd brightmoney_plaidapp/lear[Ksubl .[4Pls[C[C[K[Kcd brightmoney-plaidapp/ls[Kcd /home/anshul/Downloads/New_plaidappexit[Kpsql -h localhost -U postgres[12Pworkon bright_devpsql -h localhost -U postgressubl .[K[4Plscd /home/anshul/Downloads/brightmoney-backend-api-release_6thjune[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[24P(reverse-i-search)`':[Cw': workon bright_dev[1@o[C[C[C[1@r[C[C[C[1@k[C[C[C[C[8@failed reverse-i-search)`worke[C[C[C[1@r[C[C[C[1P[C[C[C[Creverse-i-search)`work': cd /home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/git-warade-django-rest-framework-custom-exceptionns[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C': cd /home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/git-warade-django-rest-framework-custom-exceptions[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C': cd /home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/git-warade-django-rest-framework-custom-exceptions [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfailed reverse-i-search)`': cd /home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/git-warade-django-rest-framework-custom-excepttions[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Creverse-i-search)`b': jupyter notebook[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr': cd /home/anshul/Downloads/brightmoney-backend-api-release_6thjune[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@i[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@g[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@h[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@t[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@failed reverse-i-search)`[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[55Preverse-i-search)`t': jupyter notebooka': pip3 install django-brightmoney-user-0.2.tar.gz [C[8@failed reverse-i-search)`tas[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@k[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Creverse-i-search)`ta': cd /home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/TestingApp/BrightCapitalApp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@failed reverse-i-search)`[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C^C
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ ls
+db.sqlite3  django  [0m[01;32mmanage.py[0m  [01;34mplaygroundCelery[0m  [01;34mquickstart[0m  readme.txt  screenlog.0
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaygroundCelery[00m$ nano readd[K[K[K[K[K[K[K[K[K[Kcd ..
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplayground-celery[00m$ ls
+[0m[01;34menv[0m  [01;34mplaygroundCelery[0m  playground-celery.ipynb
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplayground-celery[00m$ cd ..
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mWhatAmIDoing[00m$ ls
+[0m[01;34mbrightmoney-plaidapp-master[0m          [01;34mgit-warade-django-rest-framework-custom-exceptions[0m  [01;34mSelenium[0m
+[01;31mbrightmoney-plaidapp-master.zip[0m      [01;34mgit-warade-Django-SMTP-integration[0m                  [01;34mSMTP_SES_AWS[0m
+[01;34mCheatsheets[0m                          [01;34mgit-warade-Grafana[0m                                  [01;34mStudy[0m
+credentials.csv                      [01;34mHandledRequestIDFlowInPlaidApiCalls[0m                 [01;34mTestingApp[0m
+[01;34mdjango-playground[0m                    [01;34mPlaid[0m                                               [01;34mTreasury[0m
+[01;31mDjango-SMTP-integration-master.zip[0m   [01;34mplayground-celery[0m                                   UnderstandingBrightBackend.odt
+[01;34mgit-bright-django-brightMail[0m         [01;34mproject[0m                                             UnderstandingSMTP-IMAP.odt
+[01;34mgit-bright-temp-django-Django-silk[0m   rootkey.csv
+[01;34mgit-warade-AWS-Simple-Email-Service[0m  [01;34mScrapyTut[0m
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mWhatAmIDoing[00m$ cd.[K ..
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mBrightmoneyIntern[00m$ lls
+
+Command 'lls' not found, did you mean:
+
+  command 'als' from deb atool
+  command 'ls' from deb coreutils
+  command 'les' from deb atm-tools
+  command 'fls' from deb sleuthkit
+  command 'ols' from deb speech-tools
+  command 'lrs' from deb lrslib
+  command 'lvs' from deb lvm2
+  command 'llc' from deb llvm
+  command 'ils' from deb sleuthkit
+  command 'lli' from deb llvm-runtime
+  command 'hls' from deb hfsutils
+  command 'jls' from deb sleuthkit
+  command 'llt' from deb storebackup
+  command 'bls' from deb bacula-sd
+
+Try: sudo apt install <deb name>
+
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mBrightmoneyIntern[00m$ ls
+[0m[01;34mWhatAmIDoing[0m
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mBrightmoneyIntern[00m$ cd l.[K[K..
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mDownloads[00m$ ls
+ [0m[01;34mBrightmoneyIntern[0m   [01;34mdjango-brightapi[0m   [01;34mngrok-stable-linux-amd64[0m      [01;34m'Octoparse V7.2.2Setup'[0m   [01;34mSetupForAppBright[0m
+ celery.pdf          [01;34mDownloads[0m          [01;31mngrok-stable-linux-amd64.zip[0m   [01;34mplaidapp[0m                 [01;34mzips[0m
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mDownloads[00m$ cd plaidapp/
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaidapp[00m$ ls
+[0m[01;34mbrightmoney-backend-api-release_6thjune[0m         [01;31mbrightmoney-plaidapp-afterapi-share.zip[0m  [01;34mNew_plaidapp[0m
+[01;34mbrightmoney-plaidapp-afterapi[0m                   [01;31mbrightmoney-plaidapp-afterapi.zip[0m        [01;31mNew_plaidapp-anshul.zip[0m
+[01;31mbrightmoney-plaidapp-afterapi-aftershare-2.zip[0m  [01;34mbrightmoney-plaidapp-serializer_anshul[0m
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mplaidapp[00m$ cd brightmoney-plaidapp-afterapi/
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney-plaidapp-afterapi[00m$ ls
+[0m[01;34mbrightmoney-plaidapp[0m
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney-plaidapp-afterapi[00m$ c [Kd brightmoney-plaidapp/
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney-plaidapp[00m$ cd brightmoney_plaidapp/
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ clear
+[H[2J[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ clear
+[H[2J[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ clear
+[H[2J[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ clear
+[H[2J[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ [28P(reverse-i-search)`':[Cy': cd brightmoney_plaidapp/o': celery -A <your playgroundCelery worker -S django [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@u[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@r[C[C[C[C[C[C[C[C[C[C[C[C[C[C[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ celery -A <your playgroundCelery worker -S django [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@r[1@i[1P[1P[1@b[1@r[1@i[18@ghtmoney_plaidapp/[1P
+Traceback (most recent call last):
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/kombu/utils/objects.py", line 42, in __get__
+    return obj.__dict__[self.__name__]
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/bin/celery", line 10, in <module>
+    sys.exit(main())
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/__main__.py", line 16, in main
+    _main()
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/celery.py", line 496, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/base.py", line 298, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/celery.py", line 488, in handle_argv
+    return self.execute(command, argv)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/celery.py", line 420, in execute
+    ).run_from_argv(self.prog_name, argv[1:], command=argv[0])
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/worker.py", line 221, in run_from_argv
+    *self.parse_options(prog_name, argv, command))
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/base.py", line 421, in parse_options
+    self.parser = self.create_parser(prog_name, command)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/base.py", line 437, in create_parser
+    self.add_arguments(parser)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/bin/worker.py", line 277, in add_arguments
+    default=conf.worker_state_db,
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/utils/collections.py", line 134, in __getattr__
+    return self[k]
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/utils/collections.py", line 437, in __getitem__
+    return getitem(k)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/utils/collections.py", line 286, in __getitem__
+    return mapping[_key]
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/collections/__init__.py", line 987, in __getitem__
+    if key in self.data:
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/kombu/utils/objects.py", line 44, in __get__
+    value = obj.__dict__[self.__name__] = self.__get(obj)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/app/base.py", line 141, in data
+    return self.callback()
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/app/base.py", line 935, in _finalize_pending_conf
+    conf = self._conf = self._load_config()
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/app/base.py", line 945, in _load_config
+    self.loader.config_from_object(self._config_source)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/loaders/base.py", line 131, in config_from_object
+    self._conf = force_mapping(obj)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/celery/utils/collections.py", line 54, in force_mapping
+    if isinstance(m, (LazyObject, LazySettings)):
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/django/conf/__init__.py", line 66, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/site-packages/django/conf/__init__.py", line 157, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/anshul/Downloads/plaidapp/brightmoney-plaidapp-afterapi/brightmoney-plaidapp/brightmoney_plaidapp/brightmoney_plaidapp/settings.py", line 17, in <module>
+    from decouple import config
+ModuleNotFoundError: No module named 'decouple'
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ workon bri/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/bin/python: Error while finding module specification for 'virtualenvwrapper.hook_loader' (ModuleNotFoundError: No module named 'virtualenvwrapper')
+virtualenvwrapper.sh: There was a problem running the initialization hooks. 
+
+If Python could not import the module virtualenvwrapper.hook_loader,
+check that virtualenvwrapper has been installed for
+VIRTUALENVWRAPPER_PYTHON=/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/bin/python and that PATH is
+set properly.
+^C
+[01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ workon br[Kbr[K[Kright_dev
+/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/bin/python: Error while finding module specification for 'virtualenvwrapper.hook_loader' (ModuleNotFoundError: No module named 'virtualenvwrapper')
+/home/anshul/Downloads/BrightmoneyIntern/WhatAmIDoing/playground-celery/env/bin/python: Error while finding module specification for 'virtualenvwrapper.hook_loader' (ModuleNotFoundError: No module named 'virtualenvwrapper')
+(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ pp[Kip33[K list
+Package                   Version 
+------------------------- --------
+amqp                      2.4.2   
+billiard                  3.6.0.0 
+celery                    4.3.0   
+certifi                   2019.3.9
+chardet                   3.0.4   
+coloredlogs               10.0    
+dj-database-url           0.5.0   
+Django                    2.2     
+django-brightmoney-user   0.2     
+django-celery-results     1.1.2   
+django-filter             2.1.0   
+django-stubs              0.12.1  
+djangorestframework       3.9.4   
+djangorestframework-stubs 0.4.2   
+gunicorn                  19.9.0  
+humanfriendly             4.18    
+idna                      2.8     
+kombu                     4.5.0   
+Markdown                  3.1.1   
+mypy                      0.701   
+mypy-extensions           0.4.1   
+numpy                     1.16.3  
+pandas                    0.24.2  
+pip                       19.1.1  
+plaid-python              2.4.1   
+psycopg2                  2.8.2   
+python-dateutil           2.8.0   
+python-decouple           3.1     
+pytz                      2019.1  
+requests                  2.22.0  
+setuptools                41.0.1  
+six                       1.12.0  
+sqlparse                  0.3.0   
+typed-ast                 1.3.5   
+typing-extensions         3.7.2   
+urllib3                   1.25.2  
+vine                      1.3.0   
+wheel                     0.33.4  
+(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ pip3 listls[Kworkon bright_devcelery -A brightmoney_plaidapp worker -S django lear[K[3Plsclear[3Plsclear[3Plsclear[3Plscd brightmoney_plaidapp/-plaidapp/ls[Kcd brightmoney-plaidapp-afterapi/ls[Kcd plaidapp/ls[Kcd ..[3Plslscd ..[3Plscd ..[3Plscd ..[3Plscelery -A playgroundCelery worker -S django lear[Kpkill -f "celery_worker"fkill -f "celery worker"[12Pkill -9 2154015153ps aux | grep 'celery worker'celery -A playgroundCelery worker -S django ls[Kcelery -A <your playgroundCelery worker -S django roject name> worker -S django -l inf./ngrok authtoken 6Fg2VE5ST1zR5wYkCx7ng_2GQQi3kzdhT7jCSdqGwwMexit[Kpython manage.py runserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserver[2Pmigrateakemigrations[5Prunserverfr[10Pworkon bright_devpython manage.py runserverls[Kcd brightmoney_plaidapp/lear[Ksubl .[Kcd brightmoney-plaidapp/ls[Kcd /home/anshul/Downloads/New_plaidappexit[Kpsql -h localhost -U postgres[12Pworkon bright_devpsql -h localhost -U postgresexit[Kcd /home/anshul/Downloads/New_plaidappls[Kcd brightmoney-plaidapp/[Ksubl .[1Pcleard brightmoney_plaidapp/ls[Kpython manage.py runserver[9Pworkon bright_devpython manage.py runservefr[1Prmakemigrations[7Pigraterunservermakemigrations[7Pigraterunservermakemigrations[7Pigraterunservermakemigrations[7Pigraterunserverexit[K./ngrok authtoken 6Fg2VE5ST1zR5wYkCx7ng_2GQQi3kzdhT7jCSdqGwwM[8Pcelery -A <your project name> worker -S django -l inf[3PlaygroundCelery worker -S django ls[Kcelery -A playgroundCelery worker -S django [15Pps aux | grep 'celery worker'[16Pkill -9 1515321540pfkill -f "celery worker"[1Pkill -f "celery_worker"clear[Kelery -A playgroundCelery worker -S django ls[Kcd ..[3Plscd ..[3Plscd ..[K[K[K[K[Kclear
+[H[2J(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ l[Kclear
+[H[2J(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ clear
+[H[2J(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ [C[41Preverse-i-search)`':[C[49@y': celery -A brightmoney_plaidapp worker -S django[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@o': celery -A <your playgroundCelery[1@u[C[C[C[C[C[C[C[C[C[C[C[C[C[C(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ celery -A <your playgroundCelery worker -S django [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@b[1@r[1@i[18@ghtmoney_plaidapp/[1P
+[1;36m 
+ -------------- celery@anshul-ThinkPad-L480 v4.3.0 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-4.18.0-20-generic-x86_64-with-Ubuntu-18.04-bionic 2019-06-12 20:27:16
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         brightmoney_plaidapp:0x7fbf46539a20
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+[0m[0m[0m
+[1;33m[2019-06-12 20:27:18,315: WARNING/MainProcess] /home/anshul/.virtualenvs/bright_dev/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '[0m
+[1;31m[2019-06-12 20:28:12,500: ERROR/ForkPoolWorker-8] Task plaidapp.tasks.FetchEverythingDelayed[2d141ea9-0e87-4f93-b687-9d92f3a42b18] raised unexpected: TypeError("fetch_plaid() missing 1 required positional argument: 'self'",)
+Traceback (most recent call last):
+  File "/home/anshul/.virtualenvs/bright_dev/lib/python3.6/site-packages/celery/app/trace.py", line 385, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/anshul/.virtualenvs/bright_dev/lib/python3.6/site-packages/celery/app/trace.py", line 648, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/anshul/Downloads/plaidapp/brightmoney-plaidapp-afterapi/brightmoney-plaidapp/brightmoney_plaidapp/plaidapp/tasks.py", line 60, in run
+    get_item_response, error = self.plaid_client.fetch_plaid(api_name='get_item', access_token=access_token)
+TypeError: fetch_plaid() missing 1 required positional argument: 'self'[0m
+[1;31m[2019-06-12 20:31:03,509: ERROR/ForkPoolWorker-2] Task plaidapp.tasks.FetchEverythingDelayed[2f2ff0a5-be46-4050-8797-c67527f7be21] raised unexpected: TypeError("fetch_plaid() missing 1 required positional argument: 'self'",)
+Traceback (most recent call last):
+  File "/home/anshul/.virtualenvs/bright_dev/lib/python3.6/site-packages/celery/app/trace.py", line 385, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/anshul/.virtualenvs/bright_dev/lib/python3.6/site-packages/celery/app/trace.py", line 648, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/anshul/Downloads/plaidapp/brightmoney-plaidapp-afterapi/brightmoney-plaidapp/brightmoney_plaidapp/plaidapp/tasks.py", line 60, in run
+    get_item_response, error = self.plaid_client.fetch_plaid(api_name='get_item', access_token=access_token)
+TypeError: fetch_plaid() missing 1 required positional argument: 'self'[0m
+^C
+worker: Hitting Ctrl+C again will terminate all running tasks!
+
+worker: Warm shutdown (MainProcess)
+(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ celery -A brightmoney_plaidapp worker -SS django 
+[1;36m 
+ -------------- celery@anshul-ThinkPad-L480 v4.3.0 (rhubarb)
+---- **** ----- 
+--- * ***  * -- Linux-4.18.0-20-generic-x86_64-with-Ubuntu-18.04-bionic 2019-06-12 20:31:47
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         brightmoney_plaidapp:0x7fcb952d0a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+[0m[0m[0m
+[1;33m[2019-06-12 20:31:49,157: WARNING/MainProcess] /home/anshul/.virtualenvs/bright_dev/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '[0m
+[1;33m[2019-06-12 20:32:43,013: WARNING/ForkPoolWorker-8] ==================================================================[0m
+[1;33m[2019-06-12 20:32:43,130: WARNING/ForkPoolWorker-8] {}[0m
+[1;33m[2019-06-12 20:32:43,153: WARNING/ForkPoolWorker-8] {}[0m
+[1;33m[2019-06-12 20:32:43,153: WARNING/ForkPoolWorker-8] OrderedDict([('pid', 'poX1JvDyjZSbeqqpvZo3TjKr7Joxy9cL6KvLV'), ('available_products', ['assets', 'auth', 'balance', 'credit_details', 'identity', 'income']), ('billed_products', ['transactions']), ('webhook', 'http://baf2fac3.ngrok.io/api/v1/plaid/webhook/'), ('status', OrderedDict([('transactions_status', OrderedDict([('last_successful_update', datetime.datetime(2019, 6, 12, 20, 32, 19, 5000, tzinfo=<UTC>)), ('last_failed_update', None)])), ('last_webhook_status', OrderedDict([('sent_at', datetime.datetime(2019, 6, 12, 20, 32, 36, 168000, tzinfo=<UTC>)), ('code_sent', 'HISTORICAL_UPDATE')]))])), ('error', None)])[0m
+[1;33m[2019-06-12 20:32:43,168: WARNING/ForkPoolWorker-8] pid is :[0m
+[1;33m[2019-06-12 20:32:43,168: WARNING/ForkPoolWorker-8] poX1JvDyjZSbeqqpvZo3TjKr7Joxy9cL6KvLV[0m
+[1;33m[2019-06-12 20:32:43,174: WARNING/ForkPoolWorker-8] http://baf2fac3.ngrok.io/api/v1/plaid/webhook/[0m
+^C
+worker: Hitting Ctrl+C again will terminate all running tasks!
+
+worker: Warm shutdown (MainProcess)
+(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ clear
+[H[2J(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ ls
+ [0m[01;34mbash[0m                   DEBUG_LOGGER_DJANGO.log   get-pip.py    [01;32mmanage.py[0m   screenlog.0
+ [01;34mbrightmoney_plaidapp[0m   django                    __init__.py   [01;34mplaidapp[0m   'Untitled 1.odt'
+(bright_dev) [01;32manshul@anshul-ThinkPad-L480[00m:[01;34mbrightmoney_plaidapp[00m$ exit
+exit
