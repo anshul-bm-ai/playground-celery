@@ -7,7 +7,7 @@ celery==4.3.0
 decorator==4.4.0
 defusedxml==0.6.0
 Django==2.2
-django-celery-results==1.1.2
+django-celery-results==2.4.0
 djangorestframework==3.9.4
 entrypoints==0.3
 ipykernel==5.1.1
